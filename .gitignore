@@ -130,3 +130,6 @@ dmypy.json
 
 
 .idea
+/18.RecommenderSystems/Movie_Id_Titles
+/18.RecommenderSystems/u.data
+/18.RecommenderSystems/u.item
